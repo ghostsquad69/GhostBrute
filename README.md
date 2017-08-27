@@ -1,6 +1,6 @@
 # Usage
-python pulse.py [site] [username] [wordlist]
+python ghostbrute.py [site] [username] [wordlist]
 
-**python pulse.py Instagram username103 pass.lst**
+**python ghostbrute.py Instagram username103 pass.lst**
 # GhostBrute
 # GhostBrute
